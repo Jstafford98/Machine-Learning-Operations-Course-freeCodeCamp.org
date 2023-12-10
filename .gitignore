@@ -3,3 +3,4 @@ __pycache__
 .zen
 data
 zenml-projects
+.vscode/
